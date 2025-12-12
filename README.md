@@ -1,3 +1,7 @@
+# Cosmic-antiquities
+This is a simple archive of of space news and a live space news website.
+It is powered by the Nasa Aechive API for the information.
+The entire page was made with the help of the Google AI Studio.
 
 # Run and deploy your AI Studio app
 
